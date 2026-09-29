@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pydantic[email]
+python-dotenv
+python-multipart
+pgvector
+alembic
+boto3
+pydantic
+llama-index
