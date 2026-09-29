@@ -35,7 +35,7 @@ ORM: SQLAlchemy
 📦 Project Setup
 
 1. Clone the repository
-git clone https://github.com/aakashkarunanithi/room-recommendation-system
+git clone https://github.com/jegan-R1617/AI-room-recommendation-system
 cd room-recommendation-system
 
 2. Install dependencies
